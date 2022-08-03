@@ -37,4 +37,23 @@ article.post:last-of-type {
 
 .site-footer {
   border-top: 3px solid #ecf0f1;
+}
+
+div.custom-menu-class ul {
+  margin: 20px 0px 20px 0px;
+  list-style-type: none;
+  list-style: none;
+  list-style-image: none;
+  text-align: right;
+  display: inline-block;
+}
+
+div.custom-menu-class li {
+  padding: 0px 20px 0px 0px;
+  display: inline-block;
+  border: 1px solid;
+}
+
+div.custom-menu-class a {
+  color: #000;
 }/*# sourceMappingURL=style.css.map */
